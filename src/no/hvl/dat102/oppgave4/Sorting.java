@@ -1,6 +1,6 @@
 package no.hvl.dat102.oppgave4;
 import java.util.Arrays;
-//asd
+
 /**
  * Sorting demonstrates sorting and searching on an array 
  * of objects.
