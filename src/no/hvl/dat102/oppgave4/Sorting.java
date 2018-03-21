@@ -202,7 +202,7 @@ public class Sorting
 	 * @param min  the minimum index in the range to be sorted
 	 * @param max  the maximum index in the range to be sorted
 	 */
-	private static <T extends Comparable<T>> 
+	protected static <T extends Comparable<T>> 
 		void quickSort(T[] data, int min, int max)
 	{
 		if (min < max)
